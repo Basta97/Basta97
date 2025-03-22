@@ -25,32 +25,20 @@ Passionate front-end developer specializing in creating beautiful, responsive, a
 ### [Project Name 1](https://github.com/yourusername/project1)
 Short description of your project. Include key technologies used and main features.
 
-### [Project Name 2](https://github.com/yourusername/project2)
-Brief explanation of project purpose and your role in development.
 
-## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=radical)
 
 ## 🎨 Design Inspiration
 I draw design inspiration from:
 - [Dribbble](https://dribbble.com/)
 - [Behance](https://www.behance.net/)
 - [Codepen](https://codepen.io/)
-- [Awwwards](https://www.awwwards.com/)
+
 
 ## 🤝 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-
-## 💡 Fun Fact
-When I'm not coding, you can find me [hobby/interest] or [another fun fact about you].
+.
 
 ---
 
-⭐ From [Your Name](https://github.com/yourusername)
+⭐ From [Your Name](https://github.com/Basta97)
