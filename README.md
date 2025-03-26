@@ -71,7 +71,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## License
 
-This repository is licensed under the [Specify License - e.g., MIT License] - see the `LICENSE` file for details.
+This repository is licensed under the MIT License- see the `LICENSE` file for details.
 
 ## Contact
 
