@@ -91,6 +91,8 @@ Blog app built with Laravel, exploring PHP backend development.
 ## Get In Touch
 
 - GitHub: https://github.com/Basta97  
+- LinkedIn: [linkedin.com/in/ahmed-elbastawisi](https://www.linkedin.com/in/ahmed-elbastawisi)  
+- WhatsApp: [+201060191496](https://wa.me/201060191496)  
 
 ---
 
